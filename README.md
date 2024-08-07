@@ -1,6 +1,5 @@
 🌱 Currently learning Linguistics in Seoul National University
-<br/>⚡ Interested in Big data analytics & NLP & ML/DL
-<br/>😄 Python and Java are available
+<br/>⚡ Interested in Data Science
 <!--
 **jinnykj/jinnykj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
