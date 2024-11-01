@@ -1,5 +1,5 @@
 🌱 Currently learning Linguistics & AI in Seoul National University
-<br/>⚡ Interested in Data Analysis & Data Visualization
+<br/>⚡ Interested in Data Analysis & Visualization
 <!--
 **jinnykj/jinnykj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
